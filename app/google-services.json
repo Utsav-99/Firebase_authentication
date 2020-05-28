@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324956272918",
+    "firebase_url": "https://authfirebase-8bdd3.firebaseio.com",
+    "project_id": "authfirebase-8bdd3",
+    "storage_bucket": "authfirebase-8bdd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324956272918:android:99ab1363a903f823abb837",
+        "android_client_info": {
+          "package_name": "com.tinny.authfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324956272918-415p1b22t1d8hejobs7tfmfbn3dak8un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxD9j3X1xON4X-jkHHlljsGLgL0M0Ue8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324956272918-415p1b22t1d8hejobs7tfmfbn3dak8un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
